@@ -1,0 +1,10 @@
+.container{
+    background-color: antiquewhite;
+    width: 100%;
+    color:rgb(209, 152, 46);
+}
+.item{
+    margin: auto;
+    width: 250px;
+}
+
